@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Swapnil 👋
 
-<!--
-**Swapnil-77/Swapnil-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Backend Developer  
+🚀 Java | Spring Boot | MySQL | REST APIs  
+📚 Currently learning Backend Development & Data Structures  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Java, C  
+- Spring Boot, JDBC  
+- MySQL  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+- Student Management System (JDBC)  
+- REST API using Spring Boot  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/swapnil-phad7  
+- GitHub: https://github.com/Swapnil-77  
