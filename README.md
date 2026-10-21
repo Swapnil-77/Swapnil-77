@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square" />
       </p>
-      <p align="center"><a href="https://github.com/Swapnil-77">🔗 View Project</a></p>
+      <p align="center"><a href="https://github.com/Swapnil-77/Crickbuzz-Backend">🔗 View Project</a></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🚆 Train Booking</h3>
@@ -80,7 +80,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square" />
       </p>
-      <p align="center"><a href="https://github.com/Swapnil-77">🔗 View Project</a></p>
+      <p align="center"><a href="https://github.com/Swapnil-77/Train-App-Backend">🔗 View Project</a></p>
     </td>
   </tr>
 </table>
