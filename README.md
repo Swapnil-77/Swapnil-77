@@ -1,102 +1,130 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Swapnil%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Backend%20Developer&descAlignY=58&descSize=20" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swapnil+%F0%9F%91%8B;Aspiring+Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Building+REST+APIs+%26+Learning+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Java+%E2%98%95+%7C+Spring+Boot+%F0%9F%8C%B1+%7C+MySQL+%F0%9F%90%AC;Building+secure+%26+scalable+REST+APIs+%F0%9F%9A%80;Learning+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Turning+ideas+into+clean+backend+code+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-77&label=Profile%20Views&color=2f81f7&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swapnil_Phad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-phad7)
-[![GitHub followers](https://img.shields.io/github/followers/Swapnil-77?style=flat&logo=github&label=Followers)](https://github.com/Swapnil-77)
+![Profile Views](https://komarev.com/ghpvc/?username=Swapnil-77&label=Profile%20Views&color=ff6b9d&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-phad7)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-77)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-- 💻 Aspiring **Backend Developer**
-- 🚀 Working with **Java, Spring Boot, Spring Security, JPA and MySQL**
-- 📚 Currently learning **Backend Development & Data Structures**
-- 🎯 Goal: build clean, scalable and secure backend systems
-- 📫 Open to internships, collaborations and learning opportunities
-
----
-
-## 🔧 Tech Stack
+## ✨ About Me
 
 <div align="center">
 
-![Tech](https://skillicons.dev/icons?i=java,c,spring,hibernate,mysql,git,github,maven,postman,intellij,vscode&perline=11)
+| 💻 Role | 🚀 Focus | 📚 Learning | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| Aspiring Backend Developer | Java • Spring Boot • JPA • MySQL | Backend Development & DSA | Build clean, scalable & secure systems |
 
 </div>
 
----
+<br/>
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🏋️ [Fitness Tracker Backend System](https://github.com/Swapnil-77/Fitness-Monolith)
+<div align="center">
 
-A scalable and secure backend built with Spring Boot that lets users track fitness activities and receive personalized recommendations, designed with production-level architecture and authentication.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔐 Secure authentication using **JWT (Spring Security)**
-- 🏃 Activity tracking with structured data handling
-- 💡 Recommendation engine for fitness insights
-- 🧱 Clean layered architecture (Controller → Service → Repository)
-- ⚡ Optimized database interactions using **JPA (Hibernate)**
-- 🛡️ Global exception handling and DTO pattern for clean API responses
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-**Tech:** `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA/Hibernate` `MySQL` `Swagger UI` `Postman`
+</div>
 
-<details>
-<summary>📡 API Overview</summary>
+<br/>
 
-| Method | Endpoint | Description |
-|---|---|---|
-| POST | `/api/auth/register` | Register a new user |
-| POST | `/api/auth/login` | Authenticate user and return JWT |
-| POST | `/api/activities` | Track a new activity |
-| GET | `/api/activities` | Fetch all activities for the user |
-| POST | `/api/recommendation/generate` | Generate a recommendation |
-| GET | `/api/recommendation/user/{userId}` | Get user recommendations |
-| GET | `/api/recommendation/activity/{activityId}` | Get activity recommendations |
+## 🚀 Featured Projects
 
-</details>
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🏋️ Fitness Tracker</h3>
+      <p align="center">Secure fitness backend with JWT authentication, activity tracking and a personalized recommendation engine.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+      </p>
+      <p align="center"><a href="https://github.com/Swapnil-77/Fitness-Monolith">🔗 View Project</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏏 Cricbuzz Backend</h3>
+      <p align="center">Cricket backend to manage teams, players and matches with live score updates through REST APIs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/Swapnil-77">🔗 View Project</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚆 Train Booking</h3>
+      <p align="center">Train search and booking backend with schedule management, ticket booking and cancellation APIs.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/Swapnil-77">🔗 View Project</a></p>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 🏏 Cricbuzz Backend API
+## 📊 GitHub Stats
 
-Backend system to manage cricket matches, teams and players.
+<div align="center">
 
-- Create teams and players
-- Manage matches
-- Update match scores
-- REST API support
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Swapnil-77&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-77&layout=compact&theme=radical&hide_border=true" />
 
-**Tech:** `Java` `Spring Boot` `MySQL`
+<br/>
 
-<details>
-<summary>📡 API Endpoints</summary>
+<img src="https://streak-stats.demolab.com/?user=Swapnil-77&theme=radical&hide_border=true" />
 
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | `/matches` | Get all matches |
-| POST | `/matches` | Create a match |
-| GET | `/players` | Get all players |
-| POST | `/teams` | Create a team |
+</div>
 
-</details>
+<br/>
 
----
+## 🎯 Currently Working On
 
-### 🚆 Train Booking Backend
+<div align="center">
 
-Backend system for train search and booking.
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Advanced_Spring_Boot-6DB33F?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker_Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- Train search by source and destination
-- Train schedule management
-- Ticket booking and cancellation
+</div>
 
-**Tech:** `Java` `Spring Boot` `MySQL`
+<br/>
 
-<detail
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-phad7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-77)
+
+<br/>
+
+*⭐ Thanks for visiting my profile! Let's build something great together. ⭐*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
