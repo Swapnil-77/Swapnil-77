@@ -15,9 +15,9 @@
 ## 👨‍💻 About Me
 
 - 💻 Aspiring **Backend Developer**
-- 🚀 Working with **Java, Spring Boot, MySQL and REST APIs**
+- 🚀 Working with **Java, Spring Boot, Spring Security, JPA and MySQL**
 - 📚 Currently learning **Backend Development & Data Structures**
-- 🎯 Goal: build clean, scalable backend systems
+- 🎯 Goal: build clean, scalable and secure backend systems
 - 📫 Open to internships, collaborations and learning opportunities
 
 ---
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Java](https://skillicons.dev/icons?i=java,c,spring,mysql,git,github,maven,postman,intellij,vscode&perline=10)
+![Tech](https://skillicons.dev/icons?i=java,c,spring,hibernate,mysql,git,github,maven,postman,intellij,vscode&perline=11)
 
 </div>
 
@@ -34,47 +34,69 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
+### 🏋️ [Fitness Tracker Backend System](https://github.com/Swapnil-77/Fitness-Monolith)
+
+A scalable and secure backend built with Spring Boot that lets users track fitness activities and receive personalized recommendations, designed with production-level architecture and authentication.
+
+- 🔐 Secure authentication using **JWT (Spring Security)**
+- 🏃 Activity tracking with structured data handling
+- 💡 Recommendation engine for fitness insights
+- 🧱 Clean layered architecture (Controller → Service → Repository)
+- ⚡ Optimized database interactions using **JPA (Hibernate)**
+- 🛡️ Global exception handling and DTO pattern for clean API responses
+
+**Tech:** `Java` `Spring Boot` `Spring MVC` `Spring Security` `JPA/Hibernate` `MySQL` `Swagger UI` `Postman`
+
+<details>
+<summary>📡 API Overview</summary>
+
+| Method | Endpoint | Description |
 |---|---|---|
-| 🎓 **Student Management System** | CRUD application for managing student records using JDBC | `Java` `JDBC` `MySQL` |
-| 🌐 **REST API with Spring Boot** | RESTful backend with layered architecture | `Java` `Spring Boot` `MySQL` |
+| POST | `/api/auth/register` | Register a new user |
+| POST | `/api/auth/login` | Authenticate user and return JWT |
+| POST | `/api/activities` | Track a new activity |
+| GET | `/api/activities` | Fetch all activities for the user |
+| POST | `/api/recommendation/generate` | Generate a recommendation |
+| GET | `/api/recommendation/user/{userId}` | Get user recommendations |
+| GET | `/api/recommendation/activity/{activityId}` | Get activity recommendations |
 
-> 📌 Check out my pinned repositories for more details and source code.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swapnil-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-77&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Swapnil-77&theme=tokyonight&hide_border=true" />
-
-</div>
+</details>
 
 ---
 
-## 🎯 Currently Working On
+### 🏏 Cricbuzz Backend API
 
-- 🔹 Strengthening Data Structures & Algorithms
-- 🔹 Building more Spring Boot projects (JWT auth, Spring Data JPA)
-- 🔹 Learning Docker and deployment basics
+Backend system to manage cricket matches, teams and players.
+
+- Create teams and players
+- Manage matches
+- Update match scores
+- REST API support
+
+**Tech:** `Java` `Spring Boot` `MySQL`
+
+<details>
+<summary>📡 API Endpoints</summary>
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/matches` | Get all matches |
+| POST | `/matches` | Create a match |
+| GET | `/players` | Get all players |
+| POST | `/teams` | Create a team |
+
+</details>
 
 ---
 
-## 📫 Connect With Me
+### 🚆 Train Booking Backend
 
-<div align="center">
+Backend system for train search and booking.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-phad7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil-77)
+- Train search by source and destination
+- Train schedule management
+- Ticket booking and cancellation
 
-<br/>
+**Tech:** `Java` `Spring Boot` `MySQL`
 
-⭐ *Thanks for visiting my profile!* ⭐
-
-</div>
+<detail
