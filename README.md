@@ -107,7 +107,8 @@
 <div align="center">
 
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Advanced_Spring_Boot-6DB33F?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Advanced_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
